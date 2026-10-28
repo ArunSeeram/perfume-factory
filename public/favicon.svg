@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#080806" />
+  <rect x="22" y="8" width="20" height="10" rx="3" fill="#c9a96e" />
+  <rect x="24" y="6" width="16" height="4" rx="2" fill="#e8d5a3" />
+  <path d="M26 18h12v6H26z" fill="#a88550" />
+  <path d="M16 26c0-2 2-4 4-4h24c2 0 4 2 4 4l-2 26c0 3-2 5-5 5H23c-3 0-5-2-5-5L16 26z" fill="url(#liqGrad)" stroke="#c9a96e" stroke-width="1.5" />
+  <path d="M20 28l-1.5 20c0 2 1.5 3.5 3.5 3.5" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" opacity="0.6" />
+  <defs>
+    <linearGradient id="liqGrad" x1="16" y1="22" x2="48" y2="57" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2a2012" />
+      <stop offset="50%" stop-color="#c9a96e" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#140f08" />
+    </linearGradient>
+  </defs>
+</svg>
